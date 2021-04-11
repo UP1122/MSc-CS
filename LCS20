@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Uzayr Parak MSc Computer Science</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>MSc<br />
+						Computer Science</h1>
+						<p>E-Portfolio compiled by U Parak</a><br />
+						in pursuit of an MSc Computer Science at the University of Essex
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">MSc Computer Science</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html"></a></li>
+			
+						</ul>
+						<ul class="icons">
+							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">About Me</span>
+									<h2><a href="#"> </a>Logic, Intelligence, Experience, Humility. Trying to make a better world.</h2>
+									<p> Around 2018, whilst listening to music, specifically "These days" by Jess Glynne, I was 
+		  particularly moved by one line in the song, "Too young to feel this old". This line essentially summed up how I felt about my life at that point.
+										
+		  I am a South African trained Dentist (University of the Witwatersrand), currenly working in the public sector. I have become highly
+                  skilled in Oral surgery, specifically surgical extractions, biopsies and surgical removal of oral lesions.
+                  I quickly grew "bored" with general dentistry, leading me to pursue other avenues. Public Health was one of these avenues.
+                  With rampant inequality in South Africa, and extensive corruption, the health sector is in dire straits. My belief is that gaining more knowledge 
+                  in Public Health, would allow me to contribute to changing this system. In September 2019, I enrolled in the Master of Public Health program at 
+                  the University of Sheffield. To date, I have completed 6 out of the 8 required modules, with 3 distinctions. I am currently in the process
+                  of completing the remaining two modules, as well as my dissertation. With regards to my dissertation, I have undertaken an interesting 
+                  systematic review of screening for oral lesions. I have been very fortunate to be assigned experienced, highly educated and
+                  highly accomplished supervisors from the University of Sheffield, International Association for Research on Cancer (IARC)
+                  and the World Health Organization (WHO). I am on track to complete the MPH degree by Sepetember 2021.  
+									
+		  In 2020, I decided to embark on one of my dreams, after much deliberation- studying Computer Science. I have always been "good" with computers, 
+		  and enjoyed assembling and upgrading computers for my family and friends. I always wanted to learn more, specifically programming. 
+		  I developed an interest in Artificial Intelligence, Machine Learning and Blockchain technology. It struck me, that computers abide by pure logic.
+		  A code that does exactly what you tell it to do, no more, no less. Right vs Wrong, there is no "grey area" when it comes to computers.
+		  Automating tasks, decentralizing finances, these areas could greatly improve life for the vast majority of the world, without avenues for 
+		  human interference. Technological advances have exponentially improved lives since they were invented. 
+		  I decided that while I am still young and healthy to pursue a second Masters degree, this time in Computer Science. I was fortunate to be 
+		  accepted to study at the University of Essex. And that is where my Computer Science journey begins. Working full time and studying two Masters
+		  degrees is certainly not easy, and many bumps along the way are expected. My hope is to join the vastly different sectors of Health and IT,
+		  to make a better system. What is that system? I honestly cant say at this point, but the work is in progress, and one day, I will figure it out
+		  Till then, all I can do, is MOVE FORWARD!!</p>
+								</header>
+						
+								
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
