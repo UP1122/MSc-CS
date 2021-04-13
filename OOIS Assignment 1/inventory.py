@@ -1,0 +1,2 @@
+
+{"HP laptop": {"Price": 2000, "Quantity": 10, "Delivery": True}, "Polo Shirt": {"Price": 25, "Quantity": 20, "Delivery": False}}{'HP laptop': {'Price': 2000, 'Quantity': 10, 'Delivery': True}, 'Polo Shirt': {'Price': 100, 'Quantity': 25, 'Delivery': False}, 'OnePlus Phone': {'Price': 500, 'Quantity': 20, 'Delivery': True}, '1531': {'Price': '152', 'Quantity': '13', 'Delivery': '1'}}
