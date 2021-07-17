@@ -82,7 +82,7 @@
 
  <p>References</p>
 
-<p>-A2:2017-Broken Authentication | OWASP. (n.d.). Retrieved June 7, 2021, from https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication</p>
+<p>-A2:2017-Broken Authentication | OWASP. (n.d.). Retrieved June 7, 2021, from https://owasp.org/www-project-top-ten/2017/A2_2017-Broken_Authentication
 <br>Microsoft: 99.9% of compromised accounts did not use multi-factor authentication | 
  ZDNet. (n.d.). Retrieved June 9, 2021, from https://www.zdnet.com/article/microsoft-99-9-of-compromised-accounts-did-not-use-multi-factor-authentication/</p>
 
@@ -127,32 +127,35 @@
 <br>Whitehead, D. E. et al. (2017) ‘Ukraine cyber-induced power outage: Analysis and practical mitigation strategies’, 70th Annual Conference for Protective Relay Engineers, CPRE 2017. doi: 10.1109/CPRE.2017.8090056. </p>		
 	
 	
-	<body>	<p><u> Unit 7 (System Design)</u></p>
-		<p>For this assignment we had to design the following:</p>
-<p>-A class diagram.</p>
-<p>-An activity diagram for the process of a customer completing an order.</p>
-<p>-A state diagram highlighting the states of an order (and their transitions) for your proposed system.</p>
+	<body>	<p><u> Unit 6 (Design Document)</u></p>
+		<p>For this assignment we were assigned groups with the following brief:</p>
+<p>For this assessment, you are advised to position yourself and your team as IT Software Consultants and Developers.
+You are required to develop an application for an organisation with domain-specific requirements. 
+A domain refers to a group of users with similar application and hardware requirements. A domain may be characterised by having:
+periodic pressure on resources (CPU, storage, or the network)
+interactive response requirements between request and reply
+substantial data download requirements
+Such requirements place specific demands on a system’s operations, and this influences the way that it should be operated and managed.
 
-	<p>The scenario was as follows: You have been asked to design a software system for a well-known online store. The system will allow customers to 
-		search for products sold at the website and add them to their shopping basket - at this stage an order is in progress. 
-		Products are sold both by the website itself and several third-party sellers as part of the website’s marketplace. 
-		Third-party sellers can be individuals or organisations, and once they have registered as a seller, they maintain their own product catalogue, 
-		pricing and storefront. If a product is temporarily out of stock, then then it will be marked as unavailable.
-		Once a customer has finished their shopping, the order is considered to be processing and they are taken through the checkout process, 
-		where they will specify delivery details. Customers have the choice of several delivery options, including standard delivery using the 
-		postal service and the company’s own in-house courier service. Products ordered from third-party sellers at the marketplace do not have 
-		access to the in-house courier system. When the delivery options have been chosen, then the customer is presented with the payment options, 
-		where they can opt to use a credit or debit card, an online payment service (e.g., PayPal) or a gift voucher.  
-		Additionally, customers may also use promotional codes that are periodically issued by the website.  
-		Customers have the option to store their payment details and so can simply use stored details for each purchase.  
-		At this stage, the order is pending payment, but once the customer submits their payment information, the validity of the account 
-		used (whether it is PayPal, a credit/debit card or gift voucher) will be verified by the appropriate service.  
-		Upon successful completion, the order is awaiting picking. When a customer completes a transaction, the order is passed to the warehouse staff.  
-		The warehouse staff will be required to look up the items on the stock database to determine the location of the item in the warehouse. 
-		Once the items are successfully collected and packaged, the order will be considered ready for delivery and distributed to the 
-		appropriate delivery company, depending on the customer’s preferences. When a member of the warehouse staff picks an item, 
-		to fulfil a customer order, the item is scanned with a handheld terminal to automatically update the stock levels 
-		(which will be reflected on the website). Finally, the order is collected by the appropriate delivery company and marked as shipped.</p>
+The API should support access via a web browser and/or a command line application that will allow an authenticated user to download stored data in a read-only format.
+The solution should ensure that all privacy and security regulations are met, including those specified by the General Data Protection Regulation (GDPR) (ICO, n.d.)
+Mechanisms should be deployed to minimise the attack surface of the solution.
+The organisation would like to see a monolithic and a distributed/microservice version of the application because they have concerns about scalability – and they may wish to extend use to partner organisations on a worldwide basis.
+Development conditions: Open-source libraries must be used in your development to ensure that the code may be run for its assessment.
+
+<p>Your full brief is to: Create a comprehensive design proposal report, describing your approach to the problem, 
+how you will meet the requirements and the design and implementation of the solution.
+You should create a working prototype of your design based on a monolithic approach that also has an API which 
+can be used to demonstrate a distributed service - via a simple command line (CL) application.</p>
+<p>Part 1: The Design Proposal Report
+<br>Your team is expected to prepare and deliver a design proposal report of your intended information risk management work for the organisation.
+Your report should detail the design decisions and approaches that you have adopted to create your secure software solution. 
+It should outline business and technical challenges 
+you have identified/ expect to encounter, and then highlight (briefly) what paradigms, patterns, theories and practices 
+you intend to utilise on this project. Build up a rationale where appropriate supported by literature.
+State any requirements you have gathered, and any assumptions you are making in relation to the design of the system as a consequence 
+of your investigation. You should also state any tools and models that you will use in your solution.</p>
+		<p> Our team decided to design the system with the NASA domain in mind</p>
 
 			<p>The answer to the question may be viewed here</p>
 		<p><li><a href= "OOIS Ass 1.docx" class="button" src= "OOIS Ass 1.docx">Assignment 1</a></li></p>
